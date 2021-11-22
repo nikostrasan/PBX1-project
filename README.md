@@ -2,6 +2,12 @@
 
 ## Please cite : ***
 
+***Systems medicine dissection of chromosome 1q amplification reveals oncogenic regulatory circuits and informs targeted therapy in cancer
+Nikolaos Trasanidis, Alexia Katsarou, Kanagaraju Ponnusamy, Yao-An Shen, Ioannis V Kostopoulos, Bien Bergonia, Keren Keren, Paudel Reema, Xiaolin Xiao, Richard M Szydlo, Pierangela MR Sabbattini, Irene AG Roberts, Holger W Auner, Kikkeri N Naresh, Aristeidis Chaidos, Tian-Li Wang, Luca Magnani, Valentina S Caputo, Anastasios Karadimitris
+bioRxiv 2021.11.17.469031; doi: https://doi.org/10.1101/2021.11.17.469031
+
+
+
 ![alt text](https://github.com/nikostrasan/PBX1_project/blob/main/Graphical%20abstract_Blood.png)
 
 # Brief Descriptions of Analysis Scripts
