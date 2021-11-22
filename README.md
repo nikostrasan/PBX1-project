@@ -1,6 +1,6 @@
 # Systems medicine dissection of chr1q-amp reveals a novel PBX1-FOXM1 axis for targeted therapy in multiple myeloma (Trasanidis N et al., 2021)
+### Available preprint: https://www.biorxiv.org/content/10.1101/2021.11.17.469031v2 
 
-*** https://www.biorxiv.org/content/10.1101/2021.11.17.469031v2 ***
 
 ![alt text](https://github.com/nikostrasan/PBX1_project/blob/main/Graphical%20abstract_Blood.png)
 
