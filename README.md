@@ -96,7 +96,7 @@ High-throughput sequencing data generated during this study have been deposited 
 MMCL ChIP-seq and RNA-seq files (GSE165060); primary MM ATAC-seq and RNA-seq files (GSE153381).
 
 
-## Please cite : 
+### Please cite : 
 _Systems medicine dissection of chromosome 1q amplification reveals oncogenic regulatory circuits and informs targeted therapy in cancer_
 Nikolaos Trasanidis, Alexia Katsarou, Kanagaraju Ponnusamy, Yao-An Shen, Ioannis V Kostopoulos, Bien Bergonia, Keren Keren, Paudel Reema, Xiaolin Xiao, Richard M Szydlo, Pierangela MR Sabbattini, Irene AG Roberts, Holger W Auner, Kikkeri N Naresh, Aristeidis Chaidos, Tian-Li Wang, Luca Magnani, Valentina S Caputo, Anastasios Karadimitris
 bioRxiv 2021.11.17.469031; doi: https://doi.org/10.1101/2021.11.17.469031
