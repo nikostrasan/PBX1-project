@@ -97,7 +97,6 @@ MMCL ChIP-seq and RNA-seq files (GSE165060); primary MM ATAC-seq and RNA-seq fil
 
 
 ### Please cite: 
-_Systems medicine dissection of chr1q-amp reveals a novel PBX1-FOXM1 axis for targeted therapy in multiple myeloma_
 Trasanidis, Nikolaos, et al. "Systems medicine dissection of chr1q-amp reveals a novel PBX1-FOXM1 axis for targeted therapy in multiple myeloma." Blood (2022).; 
 doi: https://doi.org/10.1182/blood.2021014391
 
