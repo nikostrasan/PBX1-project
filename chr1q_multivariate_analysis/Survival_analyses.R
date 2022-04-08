@@ -1,3 +1,7 @@
+#######################################
+### Author: Dr. Nikolaos Trasanidis ### 
+#######################################
+
 #SURVIVAL ANALYSES FOR FIGURE1
 
 library("survival")
