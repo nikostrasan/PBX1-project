@@ -2,7 +2,7 @@
 ### Publication link: https://doi.org/10.1182/blood.2021014391
 
 
-![alt text](https://github.com/nikostrasan/PBX1_project/blob/main/Graphical%20abstract_Blood.png)
+![alt text](https://github.com/nikostrasan/PBX1-project/blob/main/Graphical%20abstract_Blood.png)
 
 # Brief Descriptions of Analysis Scripts
 ## Multiomic clinical data analysis across chr1q
