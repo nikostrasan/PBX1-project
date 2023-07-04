@@ -144,8 +144,8 @@ mkdir Homer_motifscan
 awk '{printf("%s\t%s\t%s\t%s\t%s\t%s\n",$1,$2,$3,$4":"$1":"$2":"$3":"$5,$5,$6)}' chr1q_pos_specif_FTs_filtered.bed > chr1q_pos_specif_FTs_filtered.reform.bed  
 awk '{printf("%s\t%s\t%s\t%s\t%s\t%s\n",$1,$2,$3,$4":"$1":"$2":"$3":"$5,$5,$6)}' chr1q_neg_specif_FTs_filtered.bed > chr1q_neg_specif_FTs_filtered.reform.bed  
 
-perl findMotifsGenome.pl chr1q_pos_specif_FTs_filtered  -size given -mask -find HOCOMOCOv11_full_HUMAN_mono_homer_format_0.0001.motif> chr1q_pos_TFmotif_Footprints.txt
-perl findMotifsGenome.pl chr1q_neg_specif_FTs_filtered  -size given -mask -find HOCOMOCOv11_full_HUMAN_mono_homer_format_0.0001.motif> chr1q_neg_TFmotif_Footprints.txt
+perl findMotifsGenome.pl chr1q_pos_specif_FTs_filtered hg38 -size given -mask -find HOCOMOCOv11_full_HUMAN_mono_homer_format_0.0001.motif> chr1q_pos_TFmotif_Footprints.txt
+perl findMotifsGenome.pl chr1q_neg_specif_FTs_filtered hg38 -size given -mask -find HOCOMOCOv11_full_HUMAN_mono_homer_format_0.0001.motif> chr1q_neg_TFmotif_Footprints.txt
 
 #Filter TFs based on expression and proceed with downstream analysis 
 
