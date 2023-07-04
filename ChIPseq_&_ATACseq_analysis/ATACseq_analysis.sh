@@ -135,8 +135,8 @@ bedops -m chr1q_pos.bed chr1q_neg.bed > chr1q_consensus.bed
 wellington_bootstrap.py 'chr1q_pos.bam' 'chr1q_neg.bam' 'chr1q_consensus.bed' 'chr1q_pos_specif_FTs.bed' 'chr1q_neg_specif_FTs.bed' -fdr 0.1 -fdrlimit -5 -A 
 
 #C. Filter footprints based on wellington score (10)
-awk '$5>10' chr1q_pos_specif_FTs.bed > chr1q_pos_specif_FTs_filtered.bed
-awk '$5>10' chr1q_neg_specif_FTs.bed > chr1q_neg_specif_FTs_filtered.bed
+awk '$5<-10' chr1q_pos_specif_FTs.bed > chr1q_pos_specif_FTs_filtered.bed
+awk '$5<-10' chr1q_neg_specif_FTs.bed > chr1q_neg_specif_FTs_filtered.bed
 
 #D. Reformatting and homer motifscan
 ### re-format files before input to homer ### 
